@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; My GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gDuarteg&langs_count=8)](https://github.com/gDuarteg/gDuarteg)
+
 <a href="https://github.com/gDuarteg/gDuarteg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gDuarteg&hide=java,html&title_color=000000&text_color=000000" />
 </a>
