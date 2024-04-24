@@ -1,26 +1,17 @@
-<!--
-**gDuarteg/gDuarteg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Gabriel Duarte 👨🏾‍💻
 
-### Olá! 👋🏾 Bem-vindo ao meu perfil
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmdk) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gDuartek)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-magalh%C3%A3es-duarte-klabin-1624671a4/)](https://www.linkedin.com/in/gabriel-magalh%C3%A3es-duarte-klabin-1624671a4/)
+Welcome to my profile! I'm a Software Engineer with a passion for developing innovative solutions.
 
-## &#x1f4c8; My GitHub Stats
+## About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gDuarteg&langs_count=8&hide=Makefile,ShaderLab)](https://github.com/gDuarteg/gDuarteg)
+- 👨🏾‍💻 Specializing in Solution Architecture.
+- 🚀 Enthusiastic explorer of Blockchain, Machine Learning, Visual Computing, Cloud computing, Hardware and things to automate
+- 💼 Worked on challenging projects for a variety of companies.
+- 🌱 Always seeking new challenges and continuous learning.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gDuarteg&show_icons=true&theme=radical)
+
+## Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gDuarteg&theme=dark&hide_border=true)](https://git.io/streak-stats)
